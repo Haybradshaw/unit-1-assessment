@@ -1,0 +1,46 @@
+body {
+    display: grid;
+    grid-column: 3fr;
+    grid-row: 2fr;
+    justify-items: center;
+    height: 100vh;
+    font-family: Arial;
+    font-size: xx-large;
+}
+
+p {
+    padding-top: 20vh;
+}
+
+button {
+  padding: 15px 32px;
+  justify-items: stretch;
+} 
+
+button:hover{
+    background-color:darkslategrey;
+    color: antiquewhite;
+}
+
+input {
+    padding: 15px 32px;
+    justify-items: stretch;   
+}
+
+#plus {
+    font-family: Arial;
+    font-size: xx-large;
+}
+
+
+#minus {
+    font-family: Arial;
+    font-size: xx-large;
+}
+
+#input {
+    font-family: Arial;
+    font-size: xx-large;
+    width: 60px;
+    
+}
